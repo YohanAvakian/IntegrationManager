@@ -1,0 +1,1158 @@
+{
+  "Versions": [
+    {
+      "Name": "FunGamesSDK",
+      "Versions": [],
+      "SubModules": [
+        {
+          "Name": "UserConsent",
+          "Versions": [
+            "fg_userConsent-3.3.0.0"
+          ],
+          "SubModules": [
+            {
+              "Name": "ATTPrePopup",
+              "Versions": [
+                "fg_attPrePopup-3.3.0.0"
+              ],
+              "SubModules": [
+                {
+                  "Name": "CustomPrePopup",
+                  "Versions": [
+                    "fg_customAttPrePopup-3.3.0.0"
+                  ],
+                  "SubModules": []
+                }
+              ]
+            },
+            {
+              "Name": "ATT",
+              "Versions": [
+                "fg_att-3.3.0.0"
+              ],
+              "SubModules": [
+                {
+                  "Name": "UnityATT",
+                  "Versions": [
+                    "fg_unityAtt-3.3.0.0"
+                  ],
+                  "SubModules": []
+                }
+              ]
+            },
+            {
+              "Name": "GDPR",
+              "Versions": [
+                "fg_gdpr-3.3.0.0"
+              ],
+              "SubModules": [
+                {
+                  "Name": "UsercentricsCMP",
+                  "Versions": [
+                    "fg_usercentricsCmp-3.3.0.0"
+                  ],
+                  "SubModules": []
+                },
+                {
+                  "Name": "OguryGDPR",
+                  "Versions": [
+                    "fg_oguryCmp-3.3.0.0"
+                  ],
+                  "SubModules": []
+                },
+                {
+                  "Name": "GoogleUMP",
+                  "Versions": [
+                    "fg_googleCmp-3.3.0.0"
+                  ],
+                  "SubModules": []
+                },
+                {
+                  "Name": "DidomiCMP",
+                  "Versions": [
+                    "fg_didomiCmp-3.3.0.0"
+                  ],
+                  "SubModules": []
+                },
+                {
+                  "Name": "CustomGDPR",
+                  "Versions": [
+                    "fg_customGdpr-3.3.0.0"
+                  ],
+                  "SubModules": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "Tools",
+          "Versions": [
+            "fg_tools-3.3.0.0"
+          ],
+          "SubModules": []
+        },
+        {
+          "Name": "RemoteConfig",
+          "Versions": [
+            "fg_remoteConfig-3.3.0.0"
+          ],
+          "SubModules": [
+            {
+              "Name": "TNRemoteConfig",
+              "Versions": [
+                "fg_tnRemoteConfig-3.3.0.0"
+              ],
+              "SubModules": []
+            }
+          ]
+        },
+        {
+          "Name": "Notifications",
+          "Versions": [
+            "fg_notifications-3.3.0.0"
+          ],
+          "SubModules": [
+            {
+              "Name": "UnityNotification",
+              "Versions": [
+                "fg_unityNotifications-3.3.0.0"
+              ],
+              "SubModules": []
+            }
+          ]
+        },
+        {
+          "Name": "Monetization",
+          "Versions": [],
+          "SubModules": [
+            {
+              "Name": "Ads",
+              "Versions": [],
+              "SubModules": [
+                {
+                  "Name": "InGameAds",
+                  "Versions": [
+                    "fg_inGameAds-3.3.0.0"
+                  ],
+                  "SubModules": [
+                    {
+                      "Name": "GoogleNative",
+                      "Versions": [
+                        "fg_googleNative-3.3.0.0"
+                      ],
+                      "SubModules": []
+                    },
+                    {
+                      "Name": "Gadsme",
+                      "Versions": [
+                        "fg_gadsme-3.3.0.0"
+                      ],
+                      "SubModules": []
+                    },
+                    {
+                      "Name": "Anzu",
+                      "Versions": [
+                        "fg_anzu-3.3.0.0"
+                      ],
+                      "SubModules": []
+                    },
+                    {
+                      "Name": "Adverty",
+                      "Versions": [
+                        "fg_adverty-3.3.0.0"
+                      ],
+                      "SubModules": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "Crosspromo",
+                  "Versions": [
+                    "fg_crossPromo-3.3.0.0"
+                  ],
+                  "SubModules": [
+                    {
+                      "Name": "TNCrosspromo",
+                      "Versions": [
+                        "fg_tnCrossPromo-3.3.0.0"
+                      ],
+                      "SubModules": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "SponsoredCampaigns",
+                  "Versions": [],
+                  "SubModules": [
+                    {
+                      "Name": "Monetizr",
+                      "Versions": [
+                        "fg_monetizr-3.3.0.0"
+                      ],
+                      "SubModules": []
+                    }
+                  ]
+                },
+                {
+                  "Name": "AudioAds",
+                  "Versions": [
+                    "fg_audioAds-3.3.0.0"
+                  ],
+                  "SubModules": [
+                    {
+                      "Name": "Odeeo",
+                      "Versions": [
+                        "fg_odeeo-3.3.0.0"
+                      ],
+                      "SubModules": []
+                    },
+                    {
+                      "Name": "GadsmeAudio",
+                      "Versions": [
+                        "fg_gadsmeAudio-3.3.0.0"
+                      ],
+                      "SubModules": []
+                    },
+                    {
+                      "Name": "AudioMob",
+                      "Versions": [
+                        "fg_audioMob-3.3.0.0"
+                      ],
+                      "SubModules": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "IAP",
+              "Versions": [
+                "fg_iap-3.3.0.0"
+              ],
+              "SubModules": [
+                {
+                  "Name": "UnityIAP",
+                  "Versions": [
+                    "fg_unityIap-3.3.0.0"
+                  ],
+                  "SubModules": []
+                },
+                {
+                  "Name": "AdjustPurchaseTracker",
+                  "Versions": [
+                    "fg_adjustPurchaseTracker-3.3.0.0"
+                  ],
+                  "SubModules": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "MMP",
+          "Versions": [
+            "fg_mmp-3.3.0.0"
+          ],
+          "SubModules": [
+            {
+              "Name": "Adjust",
+              "Versions": [
+                "fg_adjust-3.3.0.0"
+              ],
+              "SubModules": []
+            }
+          ]
+        },
+        {
+          "Name": "Core",
+          "Versions": [
+            "fg_core-3.3.0.0"
+          ],
+          "SubModules": []
+        },
+        {
+          "Name": "Analytics",
+          "Versions": [
+            "fg_analytics-3.3.0.0"
+          ],
+          "SubModules": [
+            {
+              "Name": "GameAnalytics",
+              "Versions": [
+                "fg_gameAnalytics-3.3.0.0"
+              ],
+              "SubModules": []
+            },
+            {
+              "Name": "Flurry",
+              "Versions": [
+                "fg_flurry-3.3.0.0"
+              ],
+              "SubModules": []
+            },
+            {
+              "Name": "Firebase",
+              "Versions": [
+                "fg_firebase-3.3.0.0"
+              ],
+              "SubModules": []
+            }
+          ]
+        },
+        {
+          "Name": "Ads",
+          "Versions": [],
+          "SubModules": [
+            {
+              "Name": "Mediation",
+              "Versions": [
+                "fg_mediation-3.3.0.0"
+              ],
+              "SubModules": [
+                {
+                  "Name": "IronSource",
+                  "Versions": [
+                    "fg_ironSource-3.3.0.0"
+                  ],
+                  "SubModules": []
+                },
+                {
+                  "Name": "GoogleAds",
+                  "Versions": [
+                    "fg_googleAds-3.3.0.0"
+                  ],
+                  "SubModules": []
+                },
+                {
+                  "Name": "ApplovinMax",
+                  "Versions": [
+                    "fg_applovinMax-3.3.0.0"
+                  ],
+                  "SubModules": []
+                },
+                {
+                  "Name": "Amazon",
+                  "Versions": [
+                    "fg_amazon_with_max-3.3.0.0"
+                  ],
+                  "SubModules": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "VersionsDetails": [
+    {
+      "Id": "fg_userConsent",
+      "ModuleInfos": [
+        {
+          "Id": "fg_userConsent",
+          "Name": "User Consent",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_remoteConfig-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_tools",
+      "ModuleInfos": [
+        {
+          "Id": "fg_tools",
+          "Name": "Tools",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_mediation-3.3.0.0",
+            "fg_userConsent-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_remoteConfig",
+      "ModuleInfos": [
+        {
+          "Id": "fg_remoteConfig",
+          "Name": "Remote Config",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_notifications",
+      "ModuleInfos": [
+        {
+          "Id": "fg_notifications",
+          "Name": "Notifications",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_mmp",
+      "ModuleInfos": [
+        {
+          "Id": "fg_mmp",
+          "Name": "MMP",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_core",
+      "ModuleInfos": [
+        {
+          "Id": "fg_core",
+          "Name": "FunGames SDK",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_tools-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_analytics",
+      "ModuleInfos": [
+        {
+          "Id": "fg_analytics",
+          "Name": "Analytics",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_mediation",
+      "ModuleInfos": [
+        {
+          "Id": "fg_mediation",
+          "Name": "Mediation",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_attPrePopup",
+      "ModuleInfos": [
+        {
+          "Id": "fg_attPrePopup",
+          "Name": "ATT Pre-Popup",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_att",
+      "ModuleInfos": [
+        {
+          "Id": "fg_att",
+          "Name": "ATT",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_analytics-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_gdpr",
+      "ModuleInfos": [
+        {
+          "Id": "fg_gdpr",
+          "Name": "GDPR",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_iap",
+      "ModuleInfos": [
+        {
+          "Id": "fg_iap",
+          "Name": "In App Purchase",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_inGameAds",
+      "ModuleInfos": [
+        {
+          "Id": "fg_inGameAds",
+          "Name": "In-Game Ads",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_crossPromo",
+      "ModuleInfos": [
+        {
+          "Id": "fg_crossPromo",
+          "Name": "Crosspromo",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_audioAds",
+      "ModuleInfos": [
+        {
+          "Id": "fg_audioAds",
+          "Name": "Audio Ads",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_ironSource",
+      "ModuleInfos": [
+        {
+          "Id": "fg_ironSource",
+          "Name": "IronSource",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_mediation-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_customAttPrePopup",
+      "ModuleInfos": [
+        {
+          "Id": "fg_customAttPrePopup",
+          "Name": "Custom ATT Pre-popup",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_attPrePopup-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_unityAtt",
+      "ModuleInfos": [
+        {
+          "Id": "fg_unityAtt",
+          "Name": "Unity ATT",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_att-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_usercentricsCmp",
+      "ModuleInfos": [
+        {
+          "Id": "fg_usercentricsCmp",
+          "Name": "Usercentrics CMP",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_gdpr-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_oguryCmp",
+      "ModuleInfos": [
+        {
+          "Id": "fg_oguryCmp",
+          "Name": "Ogury CMP",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_gdpr-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_googleCmp",
+      "ModuleInfos": [
+        {
+          "Id": "fg_googleCmp",
+          "Name": "Google CMP",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_gdpr-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_didomiCmp",
+      "ModuleInfos": [
+        {
+          "Id": "fg_didomiCmp",
+          "Name": "Didomi CMP",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_gdpr-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_customGdpr",
+      "ModuleInfos": [
+        {
+          "Id": "fg_customGdpr",
+          "Name": "Custom GDPR",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_gdpr-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_tnRemoteConfig",
+      "ModuleInfos": [
+        {
+          "Id": "fg_tnRemoteConfig",
+          "Name": "TN Remote Config",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_unityNotifications",
+      "ModuleInfos": [
+        {
+          "Id": "fg_unityNotifications",
+          "Name": "Unity Notifications",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_notifications-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_googleAds",
+      "ModuleInfos": [
+        {
+          "Id": "fg_googleAds",
+          "Name": "Google Ads",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_mediation-3.3.0.0",
+            "fg_applovinMax-3.3.0.0",
+            "fg_googleCMP-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_applovinMax",
+      "ModuleInfos": [
+        {
+          "Id": "fg_applovinMax",
+          "Name": "Applovin Max",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_mediation-3.3.0.0",
+            "fg_firebase-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_amazon_with_max",
+      "ModuleInfos": [
+        {
+          "Id": "fg_amazon_with_max",
+          "Name": "Amazon",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_mediation-3.3.0.0",
+            "fg_applovinMax-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_unityIap",
+      "ModuleInfos": [
+        {
+          "Id": "fg_unityIap",
+          "Name": "Unity IAP",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_iap-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_adjustPurchaseTracker",
+      "ModuleInfos": [
+        {
+          "Id": "fg_adjustPurchaseTracker",
+          "Name": "Adjust IAP Tracker",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_iap-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_googleNative",
+      "ModuleInfos": [
+        {
+          "Id": "fg_googleNative",
+          "Name": "Google Native",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_inGameAds-3.3.0.0",
+            "fg_googleCMP-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_gadsme",
+      "ModuleInfos": [
+        {
+          "Id": "fg_gadsme",
+          "Name": "Gadsme",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_inGameAds-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_anzu",
+      "ModuleInfos": [
+        {
+          "Id": "fg_anzu",
+          "Name": "Anzu",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_inGameAds-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_adverty",
+      "ModuleInfos": [
+        {
+          "Id": "fg_adverty",
+          "Name": "Adverty",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_inGameAds-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_tnCrossPromo",
+      "ModuleInfos": [
+        {
+          "Id": "fg_tnCrossPromo",
+          "Name": "TN Crosspromo",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_crosspromo-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_monetizr",
+      "ModuleInfos": [
+        {
+          "Id": "fg_monetizr",
+          "Name": "Monetizr",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_odeeo",
+      "ModuleInfos": [
+        {
+          "Id": "fg_odeeo",
+          "Name": "Odeeo",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_gadsmeAudio",
+      "ModuleInfos": [
+        {
+          "Id": "fg_gadsmeAudio",
+          "Name": "Gadsme Audio",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_audioAds-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_audioMob",
+      "ModuleInfos": [
+        {
+          "Id": "fg_audioMob",
+          "Name": "Audio Mob",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_adjust",
+      "ModuleInfos": [
+        {
+          "Id": "fg_adjust",
+          "Name": "Adjust",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_remoteConfig-3.3.0.0",
+            "fg_mediation-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_gameAnalytics",
+      "ModuleInfos": [
+        {
+          "Id": "fg_gameAnalytics",
+          "Name": "Game Analytics",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_flurry",
+      "ModuleInfos": [
+        {
+          "Id": "fg_flurry",
+          "Name": "Flurry",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_tools-3.3.0.0",
+            "fg_mediation-3.3.0.0"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "fg_firebase",
+      "ModuleInfos": [
+        {
+          "Id": "fg_firebase",
+          "Name": "Firebase",
+          "Version": "3.3.0.0",
+          "PackageURL": "notdef",
+          "HasIssue": false,
+          "IsDeprecated": false,
+          "Dependencies": [
+            "fg_core-3.3.0.0",
+            "fg_analytics-3.3.0.0",
+            "fg_userConsent-3.3.0.0",
+            "fg_mediation-3.3.0.0",
+            "fg_tools-3.3.0.0"
+          ]
+        }
+      ]
+    }
+  ]
+}
