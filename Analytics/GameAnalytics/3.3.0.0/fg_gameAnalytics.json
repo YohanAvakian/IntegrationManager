@@ -1,0 +1,14 @@
+{
+	"Id": "fg_gameAnalytics",
+	"Name": "Game Analytics",
+	"Version": "3.3.0.0",
+	"PackageURL": "notdef",
+	"HasIssue": false,
+	"IsDeprecated": false,
+	"Dependencies": [
+		"fg_core-3.3.0.0",
+		"fg_analytics-3.3.0.0",
+		"fg_userConsent-3.3.0.0",
+		"fg_tools-3.3.0.0"
+	]
+}
